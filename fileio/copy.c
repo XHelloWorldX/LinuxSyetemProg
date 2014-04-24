@@ -10,7 +10,7 @@
 
 /* Listing 4-1 */
 
-/* copy.c
+/* copy.c VZCXVZ
 
    Copy the file named argv[1] to a new file named in argv[2].
 */
